@@ -4,4 +4,4 @@ streamlit.title('My parents new healthy diner')
 
 streamlit.subheader('Breakfast menu')
 
-streamlit.caption('Omega 3 and Oat Meal')
+streamlit.caption('Omega 3 and Blue berry Oat Meal')
